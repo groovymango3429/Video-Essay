@@ -140,7 +140,7 @@ The thesis statement appears at approximately 1:15 in the script:
 
 ### How This Requirement Is Met:
 
-The script includes **five distinct reflective moments** integrated throughout:
+The script includes **six distinct reflective moments** integrated throughout:
 
 1. **Introduction Reflection (1:15):** Explains the shift from viewing the speech as historical artifact to understanding it as a warning for the present.
 
@@ -152,7 +152,7 @@ The script includes **five distinct reflective moments** integrated throughout:
 
 5. **Section 4 Reflection (8:45):** Discusses discovering new patterns through the process of visual mapping.
 
-6. **Conclusion (10:30-11:00):** Meta-reflection on how the entire adaptation process changed understanding.
+6. **Final Reflection (10:30-11:00):** Comprehensive reflection addressing which assignment was adapted, why video essay was the right medium, key rhetorical revisions made, what would be done differently, and how the creator's perspective changed through the process.
 
 **Why Section-by-Section Reflection:**
 This structure was chosen because it models the analytical process for viewers. Rather than saving all reflection for the end, viewers see how adaptation choices were made in real-time, which demonstrates the rhetorical thinking the assignment asks students to develop.
@@ -220,13 +220,13 @@ This structure was chosen because it models the analytical process for viewers. 
 
 | Question | Where Addressed |
 |----------|----------------|
-| Which assignment did you adapt? | Introduction reflection: "When I first analyzed this speech for my rhetorical essay..." |
-| For what audience and purpose? | Section 5: Modern audience, purpose of media literacy |
-| Why is video suitable? | Section 1 reflection: Audio-visual nature of propaganda requires audio-visual analysis |
-| Key rhetorical choices? | All five reflective moments detail specific adaptation choices |
-| What did you learn? | Section 4 reflection: "revealed patterns I hadn't noticed in my written analysis" |
-| What would you do differently? | Implied in reflections: more visual analysis earlier |
-| How did perspective change? | Conclusion: "This process taught me that medium changes meaning" |
+| Which assignment did you adapt? | Final Reflection: "I adapted Assignment 1—my Rhetorical Analysis essay—into this video essay" |
+| For what audience and purpose? | Final Reflection: "anyone who consumes media and wants to recognize manipulation" |
+| Why is video suitable? | Final Reflection: "Video lets you hear and see propaganda in action, not just read about it" |
+| Key rhetorical choices? | Final Reflection: "shifting from detached analysis to direct engagement—showing the footage, playing the audio" |
+| What did you learn? | Final Reflection: "learning to protect myself—and hopefully, you—from the same tricks still being used today" |
+| What would you do differently? | Final Reflection: "I'd include even more modern examples earlier to hook the audience faster" |
+| How did perspective change? | Final Reflection: "I started thinking I was studying history, but I ended up realizing I was learning to protect myself" |
 
 ---
 
@@ -239,7 +239,7 @@ This structure was chosen because it models the analytical process for viewers. 
 | Clear audience and purpose | ✅ Complete | See Section 3 of this document |
 | Appropriate medium/genre | ✅ Complete | Video essay with multimodal elements |
 | Genuine revision, not copy-paste | ✅ Complete | See Section 5 of this document |
-| Integrated reflective element | ✅ Complete | 5 section-by-section reflections |
+| Integrated reflective element | ✅ Complete | 6 reflective moments including comprehensive final reflection |
 | Standalone artifact | ✅ Complete | Full production-ready script |
 | At least 5 sources | ✅ Complete | 5 sources, MLA Works Cited |
 | Appropriate citation for medium | ✅ Complete | Verbal, visual, and end credits |
