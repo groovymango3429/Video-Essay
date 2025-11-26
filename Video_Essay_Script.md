@@ -185,17 +185,15 @@ The answer isn't to reject rhetoric—that's impossible. Language is rhetorical 
 
 ---
 
-## CONCLUSION AND FINAL REFLECTION (10:30 - 11:00)
+## FINAL REFLECTION (10:30 - 11:00)
 
 **[VISUAL: Return to direct address, Patrick speaking to camera]**
 
-When I started this project, I was adapting an academic essay for a different medium. I thought I was just translating words into images.
+For this project, I adapted Assignment 1—my Rhetorical Analysis essay—into this video essay. I chose this medium because my audience isn't just academics; it's anyone who consumes media and wants to recognize manipulation when they see it. Video lets you hear and see propaganda in action, not just read about it.
 
-I was wrong.
+The biggest revision I made was shifting from detached analysis to direct engagement—showing the footage, playing the audio, making viewers feel what that crowd felt. If I could do it over, I'd include even more modern examples earlier to hook the audience faster.
 
-This process taught me that medium changes meaning. Hearing Goebbels's voice, seeing that crowd—it transforms analysis into experience. My original essay argued that rhetoric is powerful. This video, I hope, makes you feel that power.
-
-And feeling it—that discomfort, that recognition—might be the first step toward resisting it.
+What changed most was my own perspective: I started thinking I was studying history, but I ended up realizing I was learning to protect myself—and hopefully, you—from the same tricks still being used today.
 
 **[VISUAL: Final quote appearing on screen]**
 
